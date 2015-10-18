@@ -1,0 +1,5 @@
+D:\Projects\NestedGridView\bin\NestedGridView.dll
+D:\Projects\NestedGridView\bin\NestedGridView.pdb
+D:\Projects\NestedGridView\obj\Debug\NestedGridView.csprojResolveAssemblyReference.cache
+D:\Projects\NestedGridView\obj\Debug\NestedGridView.dll
+D:\Projects\NestedGridView\obj\Debug\NestedGridView.pdb
